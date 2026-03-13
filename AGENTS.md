@@ -5,7 +5,7 @@
 ## Metadata
 
 - **Package**: lily-blazor-web-examples
-- **Version**: 0.1.0
+- **Version**: 0.2.0
 - **Created**: 2026-03-03
 - **Updated**: 2026-03-04
 - **License**: MIT or Apache-2.0 or GPL-2.0 or GPL-3.0 or contact us for more

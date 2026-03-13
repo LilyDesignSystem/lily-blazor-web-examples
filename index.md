@@ -5,7 +5,7 @@ Blazor Web App (.NET 10) example application demonstrating headless components f
 ## Features
 
 - Headless components imported from the Blazor headless library via ProjectReference
-- 12 interactive example pages demonstrating realistic usage patterns
+- 13 interactive example pages demonstrating realistic usage patterns
 - NHS UK design system styling via CSS custom properties
 - WCAG 2.2 AAA accessibility compliance
 - Full keyboard navigation and screen reader support

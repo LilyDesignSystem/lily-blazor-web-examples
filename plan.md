@@ -2,11 +2,11 @@
 
 ## Goal
 
-Create styled example pages demonstrating component usage with Blazor Web App .NET 9 with simple styling. Examples use NHS UK design system CSS for visual styling on top of headless components.
+Create styled example pages demonstrating component usage with Blazor Web App .NET 10 with simple styling. Examples use NHS UK design system CSS for visual styling on top of headless components.
 
 ## Technology
 
-- Framework: Blazor Web App .NET 9 with simple styling
+- Framework: Blazor Web App .NET 10 with simple styling
 - Test framework: bUnit
 - Test command: `dotnet test`
 - Component directory: Components/Pages/
