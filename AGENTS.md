@@ -1,6 +1,11 @@
 # Lily Design System - Blazor Web Examples
 
+Blazor Web App examples of the Lily Design System Blazor headless component library, styled with NHS UK design system colors, typography, spacing, and focus states.
+
 @AGENTS/lily.md
+@AGENTS/components.md
+@AGENTS/accessibility.md
+@AGENTS/internationalization.md
 
 ## Metadata
 
@@ -10,10 +15,6 @@
 - **Updated**: 2026-03-04
 - **License**: MIT or Apache-2.0 or GPL-2.0 or GPL-3.0 or contact us for more
 - **Contact**: Joel Parker Henderson (joel@joelparkerhenderson.com)
-
-## Overview
-
-Blazor Web App examples of the Lily Design System Blazor headless component library, styled with NHS UK design system colors, typography, spacing, and focus states.
 
 ## Tech Stack
 
