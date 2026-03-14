@@ -13,10 +13,10 @@
 
 <div id="@PanelId">
     <AccordionNav Label="Notification details">
-        <AccordionNavList>
+        <AccordionList>
             @foreach (var n in FilteredNotifications)
             {
-                <AccordionNavListItem>
+                <AccordionListItem>
                     <summary>
                         @n.Title
                         @if (!n.Read)
@@ -26,9 +26,9 @@
                         <Badge Type="@n.Type">@n.Type</Badge>
                     </summary>
                     <p>@n.Message</p>
-                </AccordionNavListItem>
+                </AccordionListItem>
             }
-        </AccordionNavList>
+        </AccordionList>
     </AccordionNav>
 </div>
 

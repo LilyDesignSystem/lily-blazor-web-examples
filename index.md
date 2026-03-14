@@ -74,7 +74,7 @@ lily-blazor-web-examples/
 | Rating       | `/rating-and-feedback`  | FiveStarRatingPicker, FiveStarRatingView, FiveFaceRatingPicker, NetPromoterScorePicker, Textarea |
 | Search       | `/search-and-filter`    | Combobox, SearchInput, TextInput, TagGroup, Tag, DataTable, Badge                                |
 | Settings     | `/settings-page`        | SwitchButton, RadioGroup, RadioInput, Select, Fieldset, Separator, Button, Banner                |
-| Tabs         | `/tabbed-interface`     | TabBar, TabBarButton, AccordionNav, AccordionNavList, AccordionNavListItem, Badge                |
+| Tabs         | `/tabbed-interface`     | TabBar, TabBarButton, AccordionNav, AccordionList, AccordionListItem, Badge                |
 | Tasks        | `/task-management`      | TaskList, TaskListItem, TextInput, CheckboxInput, Button, Badge, Progress                        |
 | Timeline     | `/timeline-and-cards`   | TimelineList, TimelineListItem, Card, DateRange, ReviewDate, SummaryList, SummaryListItem, Badge |
 

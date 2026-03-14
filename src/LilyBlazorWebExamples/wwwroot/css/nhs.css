@@ -150,18 +150,18 @@ a:focus {
   margin-bottom: var(--nhs-space-4);
 }
 
-.accordion-nav-list {
+.accordion-list {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-.accordion-nav-list-item {
+.accordion-list-item {
   border-bottom: var(--nhs-border-width) solid var(--nhs-pale-grey);
 }
 
-.accordion-nav-list-item summary,
-.accordion-nav-list-item button {
+.accordion-list-item summary,
+.accordion-list-item button {
   display: block;
   width: 100%;
   padding: var(--nhs-space-3);
@@ -174,8 +174,8 @@ a:focus {
   text-align: left;
 }
 
-.accordion-nav-list-item summary:hover,
-.accordion-nav-list-item button:hover {
+.accordion-list-item summary:hover,
+.accordion-list-item button:hover {
   color: var(--nhs-dark-blue);
   background-color: var(--nhs-pale-grey);
 }
@@ -317,7 +317,7 @@ a:focus {
   margin-bottom: var(--nhs-space-4);
 }
 
-.breadcrumb-nav-list {
+.breadcrumb-list {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -327,11 +327,11 @@ a:focus {
   font-size: var(--nhs-font-size-16);
 }
 
-.breadcrumb-nav-list-item {
+.breadcrumb-list-item {
   display: inline;
 }
 
-.breadcrumb-nav-list-item + .breadcrumb-nav-list-item::before {
+.breadcrumb-list-item + .breadcrumb-list-item::before {
   content: "\203A ";
   color: var(--nhs-mid-grey);
   margin-right: var(--nhs-space-1);
@@ -1988,13 +1988,13 @@ article[class*="card"] {
   margin-bottom: var(--nhs-space-4);
 }
 
-.tree-nav-list {
+.tree-list {
   list-style: none;
   padding-left: var(--nhs-space-4);
   margin: 0;
 }
 
-.tree-nav-list li {
+.tree-list li {
   padding: var(--nhs-space-1) 0;
 }
 
